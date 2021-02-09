@@ -1,0 +1,22 @@
+
+
+.first{
+    
+    border-radius: 11px;
+    /* border: 2px solid red; */
+    width: 388px;
+    background-color: #1325ff;
+    margin: 10px auto;
+    box-shadow: 2px 4px 11px #44385c;
+    padding: 3px;
+    border-left: 17px solid white;
+    display: inline-block;
+
+}
+
+.first h1{
+    color: rgb(0, 255, 0);
+}
+.first h2{
+    color: white;
+}

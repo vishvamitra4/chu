@@ -1,0 +1,24 @@
+.block{
+    border-radius: 11px;
+    /* border: 2px solid red; */
+    width: 388px;
+    background-color: #8c00ff;
+    
+    margin: 10px auto;
+    box-shadow: 2px 4px 11px #44385c;
+    padding: 3px;
+    border-left: 17px solid rgb(0, 0, 0);
+    display: block;
+};
+
+
+.block input{
+    display: block;
+    margin: 5px auto;
+    padding: 7px;
+    border-radius: 2px;
+    border: 1px solid white;
+};
+
+
+
